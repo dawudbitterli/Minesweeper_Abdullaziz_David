@@ -57,4 +57,19 @@ Userstory 7:
 -  Es wird geschaut das nicht zwei Minen auf einem Feld generiert werden.
 
 Userstory 8:
-- Es wird ein M Symbol gezeigt auf dem Jeweiligen Feld der Mine
+-  Es wird ein M Symbol gezeigt auf dem Jeweiligen Feld der Mine erscheinen
+-  Wenn die Mine ausgelöst wird erschein ein Fenster mit den Optionen 1: Menu 2: Wiederholung
+-  Es erscheint noch ein "You Lose" Schrift
+-  Wenn man Menu auswählt kommt man wieder auf der Stufenauswahl
+
+Userstory 9:
+-  Es wird immer überprüft wie viele Minen im Umfeld sind.
+-  Die Zahl wird nur angezeigt wenn eine Mine unmittelbar zu dem Feld ist.
+-  Die Zahlen sind von 1 bis 8
+-  Es kann keine ungültige Zahl angzeigt werden
+
+Userstory 10:
+-  Es werden alle Felder aufgetan die mit dem unbeschrifteten Feld verbunden sind.
+-  unbeschriffte Felder werden mit einem - Zeichen angezeigt.
+-  Es wird nur eine Reihe von Beschriftenten Felder angezeigt.
+-  Minen werden nicht angezeigt.
