@@ -41,3 +41,20 @@ Userstory 4:
 Userstory 5: 
 -  Das Fahnensymbol ist ein Ausrufezeichen.
 -  Das Ausrufezeichen muss an erster Stelle in der Eingabe stehen, um eine Fahne zu setzten.
+-  Eingabe wird ungültig wenn ein Ausrufezeichen an einer anderen Stelle steht.
+-  Falls kein Ausrufezeichen in der Zeichenkette steht wird auch keine Markierung gesetzt.
+
+Userstory 6:
+-  Die Auswahl wird nachdem man seinen Name geschrieben hat gezeigt.
+-  Die Schwierigkeit wird mit den Zahlen 1, 2, 3 gewählt
+-  Die Eins wird die einfachste Stufe, Die Zwei die Mittlere Stufe und Drei die schwerste Stufe.
+-  Eine ungültige Auswahl wird nicht akzeptiert
+
+Userstory 7:
+-  Es wird immer Random die Karte generiert.
+-  Der Spieler erhält eine Karte mit den Anzahl Minen die er ausgewählt hat.
+-  Es können nicht mehr Minen generiert werden als Ausgewählt.
+-  Es wird geschaut das nicht zwei Minen auf einem Feld generiert werden.
+
+Userstory 8:
+- Es wird ein M Symbol gezeigt auf dem Jeweiligen Feld der Mine
