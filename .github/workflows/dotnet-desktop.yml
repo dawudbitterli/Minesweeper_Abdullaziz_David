@@ -1,0 +1,23 @@
+name: Klassendiagramm und Sequenzdiagramm
+
+on: push
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v1
+
+      - name: Upload artifact
+
+        uses: actions/upload-artifact@v1.0.0
+
+        with:
+
+          name: Klassendiagramm und Sequenzdiagramm
+
+          path: ./Ordner_Klassendiagramm_Sequenzdiagramm/**
