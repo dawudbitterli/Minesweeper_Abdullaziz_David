@@ -20,4 +20,4 @@ jobs:
 
           name: Klassendiagramm und Sequenzdiagramm
 
-          path: ./Ordner_Klassendiagramm_Sequenzdiagramm/**
+          path: ./Ordner_Klassendiagramm_Sequenzdiagramm/
